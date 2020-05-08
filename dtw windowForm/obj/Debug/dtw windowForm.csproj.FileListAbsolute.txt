@@ -1,0 +1,9 @@
+D:\AllProgrammeFiles\Visual Studio 2019\repository\dtw windowForm\bin\Debug\dtw windowForm.exe.config
+D:\AllProgrammeFiles\Visual Studio 2019\repository\dtw windowForm\bin\Debug\dtw windowForm.exe
+D:\AllProgrammeFiles\Visual Studio 2019\repository\dtw windowForm\bin\Debug\dtw windowForm.pdb
+D:\AllProgrammeFiles\Visual Studio 2019\repository\dtw windowForm\obj\Debug\dtw windowForm.csprojAssemblyReference.cache
+D:\AllProgrammeFiles\Visual Studio 2019\repository\dtw windowForm\obj\Debug\dtw_windowForm.Form1.resources
+D:\AllProgrammeFiles\Visual Studio 2019\repository\dtw windowForm\obj\Debug\dtw_windowForm.Properties.Resources.resources
+D:\AllProgrammeFiles\Visual Studio 2019\repository\dtw windowForm\obj\Debug\dtw windowForm.csproj.GenerateResource.cache
+D:\AllProgrammeFiles\Visual Studio 2019\repository\dtw windowForm\obj\Debug\dtw windowForm.exe
+D:\AllProgrammeFiles\Visual Studio 2019\repository\dtw windowForm\obj\Debug\dtw windowForm.pdb
